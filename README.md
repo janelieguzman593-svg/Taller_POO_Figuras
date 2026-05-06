@@ -1,5 +1,5 @@
 # Taller: Figuras Geométricas (POO en Python)
-**Estudiante:** [Tu Nombre]
+**Estudiante:** Nasly
 **Materia:** Programación Orientada a Objetos
 
 ## Descripción
